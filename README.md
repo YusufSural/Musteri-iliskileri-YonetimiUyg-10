@@ -4,6 +4,6 @@
 
 ![Ekran görüntüsü 2024-05-06 155553](https://github.com/YusufSural/Musteri-iliskileri-YonetimiUyg-10/assets/84929731/458da925-4aa7-4a57-8467-15d248e71eff)
 
-** Uygulama Verileri Doldurulmuş Görüntüsü
+** Uygulama Verileri doldurulmuş Görüntüsü
 
 ![Ekran görüntüsü 2024-05-06 155640](https://github.com/YusufSural/Musteri-iliskileri-YonetimiUyg-10/assets/84929731/5f1c224e-ee61-4e5f-9f8f-22408fe27719)
