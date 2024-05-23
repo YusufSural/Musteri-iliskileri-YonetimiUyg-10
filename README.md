@@ -1,4 +1,4 @@
-/ Müşteri İlişkileri Yönetimi Uygulamasında öncelikle Ad Soyad ve İletişim Bilgileri alınır - Tel. veya E-posta Zorunlu- ve Müşteri Eklenir. Ardından Satış Numarası ve Satılan Ürünler de alınır ve Satışa Eklenir. Son olarak da Talep oluşturulur.
+/ Müşteri İlişkileri Yönetimi Uygulamasında öncelikle Ad Soyad ve İletişim Bilgileri alınır - Tel. veya E-posta Zorunlu- ve Müşteri Eklenir. Ardından Satış Numarası ve Satılan Ürünler de alınır ve Satışa Eklenir. Son olarak da Talep oluşturulur.(Destek Talep numarası otomatik vardır.)
 
 ** Uygulama Ana Ekranı
 
